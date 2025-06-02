@@ -1,1 +1,1 @@
-print("Hola mundo Secundario22")
+print("Hola mundo Secundario")
